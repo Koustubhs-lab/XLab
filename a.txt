@@ -1,4 +1,4 @@
-Passowrd = "abcd"
+password = "abc"
 test
 asdfasdfsadf
 asdfasdfasdf
