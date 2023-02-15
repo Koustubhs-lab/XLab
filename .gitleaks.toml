@@ -1,5 +1,5 @@
 [extend]
-useDefault = true
+
 [[rules]]
 
 # Unique identifier for this rule
