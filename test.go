@@ -1,1 +1,1 @@
-DBPassword = "abc"
+Password = "qwirolabc"
