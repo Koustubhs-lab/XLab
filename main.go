@@ -17,7 +17,6 @@ func main() {
 	fmt.Println(e)
 
 	// opps I added a secret at line 20
-	awsToken := "AKIALALEMEL33243OLIA"
 
 	f := "apple"
 	fmt.Println(f)
