@@ -1,0 +1,14 @@
+[extend]
+useDefault = true
+[[rules]]
+
+# Unique identifier for this rule
+id = "awesome-rule-1"
+
+# Short human readable description of the rule.
+description = "awesome rule 1"
+keywords = [
+  "auth",
+  "password",
+  "token",
+]
